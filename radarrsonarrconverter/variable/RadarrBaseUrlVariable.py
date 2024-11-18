@@ -1,0 +1,2 @@
+class RadarrBaseUrlVariable(str):
+    pass
