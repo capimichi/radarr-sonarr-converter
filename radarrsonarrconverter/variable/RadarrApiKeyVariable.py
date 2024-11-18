@@ -1,0 +1,2 @@
+class RadarrApiKeyVariable(str):
+    pass
